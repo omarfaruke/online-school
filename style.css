@@ -1,1 +1,20 @@
-style.<i class="fa fa-css3" aria-hidden="true"></i>
+.ebook{
+    height: 70px;
+    width: 190px;
+
+}
+.hight{
+    background-color: rgb(183, 236, 219);
+    height:500px;
+}
+.row{
+    padding-top: 10px;
+}
+.login{
+    background-image: linear-gradient(to bottom, pink 0%,yellow 100%);
+    color:darkmagenta;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
